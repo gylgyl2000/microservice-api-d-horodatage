@@ -1,9 +1,9 @@
-# microservice-api-d-horodatage
+# Microservice API d'horodatage
 Microservice avec npm, Node et Espress
 
 
 
-**Utilisation**
+## Utilisation
  
 1.  Le point de terminaison de l'API est GET /api/timestamp/:date\_string.
 2.  Une chaîne de date est valide si elle peut être analysée avec succès par `new Date(date_string)`.  
@@ -16,7 +16,7 @@ Microservice avec npm, Node et Espress
     
 
 
-**Exemples**
+## Exemples
 
 -   Entrée  
     [/api/timestamp/2015-12-25](../api/timestamp/2015-12-25)  
