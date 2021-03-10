@@ -1,0 +1,26 @@
+{
+    "author": "Gilles Chassignet",
+    "name": "microservice-api-d-horodatage",
+    "version": "0.0.1",
+    "description": "Application JavaScript full stack d'horodatage",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "microservice",
+        "freecodecamp",
+        "timestamp"
+    ],
+    "dependencies": {
+        "express": "^4.14.0",
+        "cors": "^2.8.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://idontknow/todo.git"
+    },
+    "license": "MIT"
+}
